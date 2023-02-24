@@ -1,0 +1,61 @@
+body{
+  background-color:rgb(27, 27, 27)
+}
+#hero{
+  box-shadow:5px 8px 10px black;
+  padding-left:20px;
+  background-color:black;
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+}
+#header{
+  color: rgb(180,180,180);
+}
+.cards{
+  border: 10px solid rgb(14, 13, 13);
+  background-color: rgb(14, 13, 13);
+  border-radius:15px;
+  width: 176px;
+  height:240px;
+  margin-top:40px;
+  box-shadow:1px 1px 10px 6px black;
+  transition-duration:1s;
+}
+.cards:hover{
+  box-shadow:1px 1px 10px 6px blue;
+}
+.img{
+  width:170px;
+  height:170px;
+  margin-top:40px;
+  border-radius:15px;
+  border:3px solid;
+}
+#shoeprice{
+  color:aliceblue;
+  font-weight:bolder;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: -31px;
+}
+#shirtprice{
+  color:aliceblue;
+  font-weight:bolder;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: -31px;
+}
+a:link{
+  color:rgb(212, 204, 204)
+}
+a:hover{
+  color:blue;
+}
+a:visited{
+  color:rgb(212, 204, 204);
+}
+#midSec{
+  display:flex;
+  justify-content: space-evenly;
+}
