@@ -50,7 +50,7 @@ body {
   color: aliceblue;
   font-weight: bolder;
   text-align: center;
-  font-size: 2vw;
+  font-size: 3vw;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -62,14 +62,6 @@ body {
   }
   #hero {
     font-size: 0.5em;
-  }
-}
-@media only screen and (min-width: 900px) {
-  .cards,
-  .img {
-    max-width: 25em;
-    max-height: 25em;
-    grid-gap: 20px;
   }
 }
 
