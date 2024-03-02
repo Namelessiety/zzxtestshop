@@ -50,7 +50,7 @@ body {
   color: aliceblue;
   font-weight: bolder;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 2vw;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
